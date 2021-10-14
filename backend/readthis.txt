@@ -1,0 +1,14 @@
+Create .env file > paste this and edit.
+
+PORT = XXXX
+NODE_ENV = development
+CLIENT_URL = http://localhost:3000
+JWT_SECRET = abcdefghijklmn
+JWT_ACCOUNT_ACTIVATION=ghghuguh
+JWT_RESET_PASSWORD=abcdefghijklmn
+EMAIL = abc@gmail.com
+PASSWORD = *********
+GOOGLE_CLIENT_ID = xxxxxxxxxxxxx-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com-replece it
+GOOGLE_CLIENT_SECRET = XXXXXXXXXXXXXXX-replece it
+REDIRECT_URL =  
+FACEBOOK_CLIENT_ID = 
